@@ -1,0 +1,18 @@
+button{
+    display: block;
+    margin: 5px auto;
+    width: 70%;
+    border-radius: 10px;
+    background-color: greenyellow;
+
+    font-size: 18px;
+    text-align: center;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+button:active{
+    background-color:crimson;
+}

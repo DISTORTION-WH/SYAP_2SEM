@@ -1,0 +1,19 @@
+body{
+    background-color: oldlace
+}
+
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    border: 2px solid white;
+    box-shadow: -10px 11px 12px 4px skyblue;
+    margin: 10px auto;
+    padding: 20px;
+    
+    background-color:skyblue; 
+    border-radius: 20px;
+}
